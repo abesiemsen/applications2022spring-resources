@@ -21,10 +21,6 @@
       }
     ],
     "links": [
-      {
-        "label": "Zoom Link",
-        "url": "https://wustl.zoom.us/j/95505953219?pwd=N1UwbmxTanpuNUhIUW1FQTY1SmZ3UT09"
-      }
     ],
     "instructors": [
       {
@@ -211,7 +207,7 @@
         "name" : "Bike Finder",
         "start" : "2018-01-17",
         "end" : "2018-02-19",
-        "hidden": false,
+        "hidden": true,
         "description" : "<p>You will conceive and prototype an interface for finding and selecting a bicycle to purchase from on online store.</p><p>From one perspective, this is very straightforward: we've all used online stores to find and buy things. From another perspective, you'll discover a multitude of decisions you must make as a designer in order to accomplish the task. Among other things, you'll need to ask:</p><ul><li>Who are my stakeholders?</li><li>What are they trying to accomplish?</li><li>What do they already know?</li><li>What do they need to know?</li><li>What do they care about?</li><li>What constitutes success?</li></ul><p>This project is not about inventing something new, or making something beautiful. Rather, it is about recognizing and applying what's appropriate, and making something that <em>works well</em> for the people using it. The most successful solutions will likely be largely transparent to the user's conscious mind.</p><p>The final product of the project will be a clickable html prototype that allows you to demonstrate your solution. It will <em>not</em> include the check-out process, nor parts of the site un-related to the process of selecting a bicycle. It will not include any 'real' programming, or dynamic data. For instance, you should not attempt to make a 'search' feature actually search. It <em>will</em> include everything necessary to clearly <em>convey</em> how the interface will work. Therefore, a search button <em>should</em> take us to a view that looks like search results.</p>",
         "deliverables" : [
           {
@@ -219,7 +215,7 @@
             "name" : "Observation Notes",
             "assigned" : "2018-01-17",
             "due" : "2018-01-17",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Buy a bike.</p>",
             "instructions" : "<p>With a partner, buy a bike online. (Don't check out, just get as far as the 'Add to Cart' button.) One of you will do the shopping, the other will observe and document. Note everything the shopper sees and touches, every question that arises, every decision made, and why. You may want to make a 'first pass' that's uninterrupted, then retrace your steps more slowly to analyze what happened step-by-step and break down the shopper's thought-process.</p><p>Work with your partner to structure your notes as an HTML document, then upload.</p>"
@@ -229,7 +225,7 @@
             "name" : "Product Knowledge",
             "assigned" : "2018-01-17",
             "due" : "2018-01-22",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Educate yourself about bikes!</p>",
             "instructions" : "<p>Find resources to learn about bicycles, and the considerations that go into making a bike purchase. Post links!</p>"
@@ -239,7 +235,7 @@
             "name" : "Personas",
             "assigned" : "2018-01-22",
             "due" : "2018-01-22 (In Class)",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Define and document a persona with your team.</p>",
             "instructions" : "<p>With your team, create a document describing your assigned persona. Be sure to include the elements of a persona as we defined them in class. Post the persona as an HTML document.</p>",
@@ -256,7 +252,7 @@
             "name" : "User Stories - Existing Site",
             "assigned" : "2018-01-24",
             "due" : "2018-01-24 (in class)",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Embody the person your team created, and write user stories describing their experience on a real website.</p>",
             "instructions" : "<p>Select a real website for purchasing a bicycle, then 'be' the persona your team defined as you go through the purchasing process once again. Break the process down into a series of small, discrete objectives, following the <a href=\"https://www.google.com/search?q=user+story\" target=\"_blank\">User Story</a> pattern: \"As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason &gt;.\" Write the these objectives down in an HTML document, provide context and style sufficient to let somebody else understand what you've documented, and post it.</p>",
@@ -273,7 +269,7 @@
             "name" : "User Stories - Aggregated",
             "assigned" : "2018-01-24",
             "due" : "2018-01-29",
-            "hidden": false,
+            "hidden": true,
             "description" : "<p>Share your user stories with your peers.</p>",
             "instructions" : "<p>Transcribe the user stories you wrote into the Google Sheet referenced below. Everybody else will do the same, and we'll end up with a combined set of stories we can all reference.</p><p>Once your user stories are transcribed, consider how you might want to organize this document further. But don't actually do it yet, at least to the master document!</p>",
             "references" : [
@@ -289,7 +285,7 @@
             "name" : "Feature Organization",
             "assigned" : "2018-01-29",
             "due" : "2018-01-31",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create a document that organizes your high-level ideas about what solutions you propose to use, and how they'll fit together.</p>",
             "instructions" : "<ol><li>Read through the user-stories gathered in our previous deliverable. If you choose, make your own copy of that user-story sheet, and consolidate/organize further than we have in class.</li><li>Identify possible UI solutions to address the stories. Not necessarily 1-for-1, just let the stories suggest ideas for components. A menu. A big photo. A search bar. An expanding drawer. Sometimes a single component such as a checkbox is enough. Sometimes you may end up with a set of components that work together, such as a search-field, search button, and results list. Keep an eye out for solutions that address more than one story/need, or that can be enhanced to address additional needs. For instance, a basic search bar might be enhanced with an 'auto-suggest' feature.</li><li>Organize your solutions into pages, or views. What views need to exist? What responsibilities does each view have?</li><li>Format your decisions in a document (or set of documents) that conveys as much as possible about your decisions, with as little effort as possible. The idea is to communicate a plan that's both easy to follow, and easy to change.</li></ol>"
@@ -299,7 +295,7 @@
             "name" : "Low-Fidelity Wireframes",
             "assigned" : "2018-01-31",
             "due" : "2018-02-07",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create low-fidelity wireframes that visualize your proposed layout.</p>",
             "instructions" : "<p>Create wireframes with whatever tool you choose, but stay <strong><em>low-fidelity</em></strong>. Don't waste time making it pretty: make it CLEAR. At the same time, do not over-simplify in terms of information. Provide enough information so we can understand what's happening. If a product in the list includes a title or a price, show those things.</p><p>Don't be satisfied with your first run at it... it's probably incomplete. Expect to iterate. Practice 'using' your wireframes with our personas. Can you complete the user-stories for each persona? Use <code>deliverable.json</code> to upload multiple versions as needed.</p><p><strong>UPDATED REQUIREMENT (2018-02-05): Iterate and update per the <a href=\"https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing\" target=\"_blank\">in-class guidance</a>.</strong></p>",
@@ -321,7 +317,7 @@
             "name" : "Visual Mockups",
             "assigned" : "2018-02-07",
             "due" : "2018-02-12",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create mockups that present the final decisions you made in wireframing, along with base style choices that make it presentation friendly.</p>",
             "instructions" : "<p><em>After</em> you're certain your wireframes represent a complete set of functional decisions, it's time to create a high-fidelity visual mockup that is client-facing. Your aim is to present your UI solutions in a way that provides not only clear functional direction, but clear style direction. Don't worry about brand, or about any elements of the page not related to the bike finder. Better to leave those <em>very</em> loosely defined, with a clear distinction between what is and is not 'fully-realized.' Focus on hierarchy, legibility, and clarity. Aim for your UI elements to be the unobtrusive frame in which the content is displayed.</p><p>This mockup will become a clickable prototype in next steps, but for now, just make a series of pages that 'loop' when clicked: clicking anywhere on home takes me to list, anywhere on list takes me to detail, anywhere on detail takes me back to home.</p>"
@@ -331,7 +327,7 @@
             "name" : "Clickable Prototypes",
             "assigned" : "2018-02-12",
             "due" : "2018-02-19",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create presentation-ready prototypes with enough functionality to demonstrate a 'typical' path through the bike-finding process.</p>",
             "instructions" : "<p>When your mockups are ready, add a layer of interactivity by positioning 'hotspots' that we can use to walk through them. Fundamentally you're delivering a series of rendered images, one-per-page, but by adding a hot-spot layer on top, we can simulate user actions leading to expected results, such as clicking a search bar and getting to the search results view, or clicking a thumbnail to get to a bike detail view.</p><p>You may also consider adding visual layers the user can show/hide with a click or over, such as a menu flyout, or expanded filter control. These could be smaller absolutely-positioned images which are simply set to <code>display:none;</code> until the user hovers a hot-spot.</p><p>Make sure your prototype is self-sufficient. In other words, make sure the rest of can click through your prototype successfully without your input or explanation.</p><p><strong>Upload with enough time to spare that we don't run into awkward caching problems while trying to present to the class and our guest reviewers!</strong></p>",
@@ -350,7 +346,7 @@
         "name" : "Free Apartment Promotion",
         "start" : "2018-02-21",
         "end" : "2018-03-26",
-        "hidden": false,
+        "hidden": true,
         "description" : "<p>Wish you had a posh pad this year, and didn't have to pay for it? Design a promotional sweepstakes in which one lucky winner gets free rent for a year!</p><p>A few things about the promotion you'll need to know:</p><ul><li>Client: <strong>E.Z. Properties, Inc.</strong></li><li>Promotion name: <strong>(To be determined by you)</strong></li><li>Prize: <strong>Winner recieves a rental contract with E.Z. Properties, Inc., with one year already paid.</strong></li><li>Eligibility: <strong>Open to Washington University students</strong></li><li>Entry Limitations: <strong>One entry per person.</strong></li><li>Starts: <strong>April 1, 2018</strong></li><li>Ends: <strong>June 1, 2018</strong></li><li>Prize drawing: <strong>June 7, 2018</strong></li><li>Winner announced: <strong>June 15, 2018</strong></li><li>Purpose: <strong>Gather contact info for use in email and social-media marketing of apartments to students.</strong></li></ul><p>What you ultimately deliver will be a prototype that is fully realized in HTML and CSS, but without any javascript or back-end programming to support it. We will design primarily for mobile-sized devices, but your prototype should have a reasonable strategy for responsive layout. Put another way, it should look its finest at mobile sizes, but should not break at any size.</p><p><strong>Project Objectives:</strong></p><ul><li>Recognize and balance competing stakeholder interests.</li><li>Design an experience, not just a layout.</li><li>Design for edge-cases, branching flows, conditional situtations.</li><li>Design feedback mechanisms such as form validation and error pages.</li><li>Practice HTML/CSS and responsive layout skills.</li></ul>",
         "deliverables" : [
           {
@@ -358,7 +354,7 @@
             "name" : "Flow Chart",
             "assigned" : "2018-02-21",
             "due" : "2018-02-26",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create a process diagram (aka \"Flowchart\") to illustrate all possible user experiences within this simple promotional microsite.</p>",
             "instructions" : "<p>Use whatever tools you like, but post the final product either as an image on an HTML page, or as a link pointing to a web-viewable document. Arrange things so that they are legible and clearly organized.</p>",
@@ -385,7 +381,7 @@
             "name" : "Content Document",
             "assigned" : "2018-02-21",
             "due" : "2018-02-26",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Write the copy that a visitor will see as they experience your site. Consider what the site hopes to accomplish, as well as what the user needs in order to accomplish it. Write the actual words that will appear on the page. Be detailed and structured. Consider titles and headlines, body copy, labels, captions, error messages, button and menu names, etc., and make sure the document you create clearly delineates those things. Think of this as a reference document that another designer would use to build out the content this site.</p>",
             "instructions" : "<p>Create this document in HTML. Use h1-h6 tags, p tags, ol, ul, li tags as semantically appropriate to create clear hierarchy. Don't worry about style, the style that your browser applies to these elements by default is fine.</p>"
@@ -395,7 +391,7 @@
             "name" : "Style Reference",
             "assigned" : "2018-02-26",
             "due" : "2018-02-28",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Explore visual style options for the apartment promotion, and create a reference document that sets a clear visual direction. As with the content document, think of this as a document some other designer could use as a reference for your intentions. Build the reference you would want to receive.</p>",
             "instructions" : "<p>The exact form of the reference is up to you (mood board, style tile, sample page, etc.), but post it as an image embedded on an HTML page. Better yet, post multiple iterations/versions using <code>deliverable.json</code>.</p>"
@@ -405,7 +401,7 @@
             "name" : "Page Mockups",
             "assigned" : "2018-03-05",
             "due" : "2018-03-12",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Design a complete set of pages for your site. A few things to consider:</p><ul><li><strong>Global elements.</strong> What carries over from page to page, what doesn't?</li><li><strong>Content.</strong> How effectively are you explaining what you want the user to do? How are you engaging them?</li><li><strong>Forms.</strong> Take the time to find examples of web forms that are well designed, and evaluate what makes them work. How can you arrange a form that is both functional and painless for the user? What instructions or other context must you provide? Also, what happens visually when the form must display a validation message?</li><li><strong>Completeness.</strong> Do your pages address all the scenarios modeled in your flowchart?</li></ul>",
             "instructions" : "<p>Post the pages as images embedded on HTML pages. Link the pages together in sequence.</p><p>Alternatively, 'design in the browser' using HTML/CSS. For those more comfortable with these tools, this may well be a simpler and more efficient approach.</p><p><strong>Remember that the site must work at any size, but the mobile experience is our optimal target.</strong></p>"
@@ -415,7 +411,7 @@
             "name" : "HTML Prototype",
             "assigned" : "2018-03-05",
             "due" : "2018-03-26",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Based on your mockup, build the site with HTML, CSS, and Javascript as needed.</p>",
             "instructions" : "<p>Make every link/button work in a way that allows us to experience the site completely. You don't need to do anything to actually save the data submitted on forms, but find a way to simulate the form submit experience, including the display of validation messages (e.g. 'Sorry, please enter a wustl email address.'). Also, find a way to simulate the experience in all three phases: before the promotion is open, while it's open, and after it's over.</p><p><strong>Remember that the site must work at any size, but the mobile experience is our optimal target.</strong></p>"
@@ -427,7 +423,7 @@
         "name" : "Configurator",
         "start" : "2018-03-28",
         "end" : "2018-04-25",
-        "hidden": false,
+        "hidden": true,
         "description" : "<p>If you've ordered Pizza online, you know what a 'configurator' is &mdash; the interface by which you step through the various choices/options available to 'customize' something you want to describe. Thin-crust or deep dish, light cheese or heavy, Which meats? Which veggies?</p><p>In this project, you will design a configurator interface &mdash; but the object being configured is up to you. Could be pizza if you like, but could also be something like an airline ticket. The choice is yours... within some parameters:</p><ul><li>The item being configured must have a finite set of pre-defined options that can be clearly articulated and easily understood.</li><li>Completion should be possible in no more than 3&ndash;5 steps.</li><li>The item must be commonly understood, requiring only a minimum of 'education' in order to configure.</li><li>Abe must approve it. :)</li></ul><p>This project does not have a defined deliverable, other than to say the finished product of your work should easily allow anybody to simulate the configuration process. You may choose to actually build and program the configurator in html/css/js, you may choose to build a clickable prototype, you may choose to only provide a series of mockups. You should, however, play to your strengths. Decide on a topic and a final deliverable that showcases your abilities, and maximizes the value of the time you spend.</p><p>What will I be looking for? Clarity of purpose. Ease of use. Evidence of a strong work ethic. A self-sufficient end-product. Reasoned UX choices. Transparently usable and accessible UI. Ultimately, that it shows well!</p>",
         "deliverables" : [
           {
@@ -435,7 +431,7 @@
             "name" : "Proposal",
             "assigned" : "2018-03-28",
             "due" : "2018-03-28 (in class)",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Write a proposal articulating the object you intend to configure, the final deliverable you expect to create, how that deliverable plays to your strengths, and what you expect to be able to show as progress in each class session between today and the final day of class.</p>",
             "instructions" : "<p>Create and upload your proposal as HTML. We will refer to it as we check progress through this project. I don't expect you to meet every goal you set perfectly, but I will expect you to meet me each week with either a met objective, or a revised plan. Use deliverable.json for plan revisions.</p>"
@@ -445,7 +441,7 @@
             "name" : "Flow Chart and/or Options Lists",
             "assigned" : "2018-03-28",
             "due" : "2018-04-01",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create a reference document that walks us through the specific configuration options of your object 'on paper'.</p>",
             "instructions" : "<p>The document may be visual or textual, but should clearly communicate what the configuration steps are, and what options are available at each step. Be specific. It is not sufficient to use placeholder values. Upload the document as HTML. If you build a visual flowchart, embed it as an image.</p>"
@@ -455,7 +451,7 @@
             "name" : "Step 2",
             "assigned" : "2018-04-01",
             "due" : "2018-04-25",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
@@ -465,7 +461,7 @@
             "name" : "Step 3",
             "assigned" : "2018-04-01",
             "due" : "2018-04-25",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
@@ -475,7 +471,7 @@
             "name" : "Step 4",
             "assigned" : "2018-04-01",
             "due" : "2018-04-25",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
@@ -485,7 +481,7 @@
             "name" : "Step 5",
             "assigned" : "2018-04-01",
             "due" : "2018-04-25",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
@@ -495,7 +491,7 @@
             "name" : "Final",
             "assigned" : "2018-04-01",
             "due" : "2018-04-25",
-            "hidden": false,
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Is it done yet?</p>",
             "instructions" : "<p>Upload your final work.</p>"
