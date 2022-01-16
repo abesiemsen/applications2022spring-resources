@@ -21,6 +21,10 @@
       }
     ],
     "links": [
+      {
+        "url": "https://join.slack.com/t/applications2022s/shared_invite/zt-11l1x5347-YmqSfih7nuyp_1RawotqVQ",
+        "label": "Slack Invitation"
+      }
     ],
     "instructors": [
       {
@@ -45,7 +49,7 @@
         "slug": "AnaisBecker",
         "lastName": "Becker",
         "firstName": "Anais",
-        "status": "waitlist",
+        "status": "enrolled",
         "basePath": "https://UNKNOWN.github.io/applications2022spring/"
       },
       {
@@ -63,6 +67,13 @@
         "basePath": "https://UNKNOWN.github.io/applications2022spring/"
       },
       {
+        "slug": "MollyBusis",
+        "lastName": "Busis",
+        "firstName": "Molly",
+        "status": "waitlist",
+        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+      },
+      {
         "slug": "KathleenChen",
         "lastName": "Chen",
         "firstName": "Kathleen",
@@ -74,6 +85,13 @@
         "lastName": "Cui",
         "firstName": "Brian",
         "status": "enrolled",
+        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+      },
+      {
+        "slug": "AllisonFong",
+        "lastName": "Fong",
+        "firstName": "Allison",
+        "status": "waitlist",
         "basePath": "https://UNKNOWN.github.io/applications2022spring/"
       },
       {
@@ -203,32 +221,61 @@
     ],
     "projects": [
       {
+        "slug" : "general-references",
+        "name" : "General References",
+        "start" : "2022-01-19",
+        "end" : "2022-01-19",
+        "hidden": false,
+        "description" : "Some links and references you may find useful.",
+        "references" : [
+          {
+            "name" : "Github Setup",
+            "link" : "https://docs.google.com/document/d/1sMFokjoTnsem1CvVpWu790hHyU0EJgQKH6yvV4GTZtg/edit?usp=sharing",
+            "description" : "Create a new repo for this class."
+          },
+          {
+            "name" : "Download VS Code",
+            "link" : "https://code.visualstudio.com/",
+            "description" : "A free code editor that works well for HTML and CSS."
+          },
+          {
+            "name" : "Getting Started with HTML",
+            "link" : "https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started",
+            "description" : "In case you need a refresher."
+          },
+          {
+            "name" : "Getting Started with CSS",
+            "link" : "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started",
+            "description" : "In case you need a refresher."
+          }
+        ]
+      },
+      {
         "slug" : "bike-finder",
         "name" : "Bike Finder",
-        "start" : "2018-01-17",
-        "end" : "2018-02-19",
-        "hidden": true,
+        "start" : "2022-01-19",
+        "hidden": false,
         "description" : "<p>You will conceive and prototype an interface for finding and selecting a bicycle to purchase from on online store.</p><p>From one perspective, this is very straightforward: we've all used online stores to find and buy things. From another perspective, you'll discover a multitude of decisions you must make as a designer in order to accomplish the task. Among other things, you'll need to ask:</p><ul><li>Who are my stakeholders?</li><li>What are they trying to accomplish?</li><li>What do they already know?</li><li>What do they need to know?</li><li>What do they care about?</li><li>What constitutes success?</li></ul><p>This project is not about inventing something new, or making something beautiful. Rather, it is about recognizing and applying what's appropriate, and making something that <em>works well</em> for the people using it. The most successful solutions will likely be largely transparent to the user's conscious mind.</p><p>The final product of the project will be a clickable html prototype that allows you to demonstrate your solution. It will <em>not</em> include the check-out process, nor parts of the site un-related to the process of selecting a bicycle. It will not include any 'real' programming, or dynamic data. For instance, you should not attempt to make a 'search' feature actually search. It <em>will</em> include everything necessary to clearly <em>convey</em> how the interface will work. Therefore, a search button <em>should</em> take us to a view that looks like search results.</p>",
         "deliverables" : [
           {
-            "slug" : "observation-notes",
-            "name" : "Observation Notes",
-            "assigned" : "2018-01-17",
-            "due" : "2018-01-17",
-            "hidden": true,
+            "slug" : "research-ui-conventions",
+            "name" : "Research: UI Conventions",
+            "assigned" : "2022-01-19",
+            "due" : "2022-01-24",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Buy a bike.</p>",
-            "instructions" : "<p>With a partner, buy a bike online. (Don't check out, just get as far as the 'Add to Cart' button.) One of you will do the shopping, the other will observe and document. Note everything the shopper sees and touches, every question that arises, every decision made, and why. You may want to make a 'first pass' that's uninterrupted, then retrace your steps more slowly to analyze what happened step-by-step and break down the shopper's thought-process.</p><p>Work with your partner to structure your notes as an HTML document, then upload.</p>"
+            "description" : "<p>You probably have plenty of experience as an online shopper, and the user-interface conventions used by online stores probably feel very familiar to you. But have you ever taken the time to identify them? Let's do some shopping for various items, with an eye focused on UI. We'll make some observations and see what patterns emerge.</p>",
+            "instructions" : "<p>With a partner, buy four different item, each at a different online store. (Don't check out, just get as far as the 'Add to Cart' button.) Before you start, pre-select items that are specific, that have some options (size, color, horse-power, capacity, etc.), and that represent a variety of needs and price-points. (An example list: a dark grey cable-knit sweater, a riding lawn mower, a two-line high-performance kite, a mid-range gaming laptop.) Make sure at least two items come from 'niche' stores, not big-box retailers. For each store and item, document the following:</p><ul><li>What UI elements did I <em>see</em> and/or <em>interact with</em> while <em>finding</em>, <em>comparing</em>, <em>selecting</em>, and <em>configuring</em> the specific product?</li><li>Have I seen this UI element before in other contexts?</li><li>Did I know what this element would do <em>before</em> I interacted with it? Why?</li><li>What general problem is this element designed to handle?</li><li>Why was it used in this context? Is it successful?</li></ul><p>Discuss with your partner as you go. Perhaps take turns being shopper and observer. Together, see if you can put names to things: 'Query field. Checkbox. Drop-down selector. Results list.' Don't limit yourself to just clickable things, also note the contextual affordances that help you understand what's happening: titles, labels, icons, etc. Make particular note of any confusion/mistakes/wrong turns you make. What misdirected you?</p><p>When you are done, summarize your findings:</p><ul><li>What elements or patterns seem universal?</li><li>Did I see anything that felt different or unusual?</li><li>What elements or patterns were specific to the store or product?</li><li>Were there any patterns or techniques that made one store stand out? Could the other stores have applied that technique successfully?</li><li>Finally, how did you feel when interacting with these sites? When were you happiest/most comfortable? When were you disrupted/confused/bothered?</li></ul><p>Feel free to trade/combine observation notes with your partner, but write your own concluding summaries. Structure your observations, notes, and summaries as an HTML document, then upload via Github, at the path shown below."
           },
           {
-            "slug" : "product-knowledge",
+            "slug" : "research-product-knowledge",
             "name" : "Product Knowledge",
-            "assigned" : "2018-01-17",
-            "due" : "2018-01-22",
-            "hidden": true,
+            "assigned" : "2018-01-19",
+            "due" : "2018-01-24",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Educate yourself about bikes!</p>",
-            "instructions" : "<p>Find resources to learn about bicycles, and the considerations that go into making a bike purchase. Post links!</p>"
+            "description" : "<p>If we're going to sell bikes, we need to know about them and how people use them. So let's do some product and user research. Some things we might care about:</p><ul><li>The physical product (materials, options, specifications)</li><li>Product variations (sizes, types and purposes, quality range, performance range, price range, brands)</li><li>Bike users (demographics, purpose, frequency of use, motivators)</li><li>The buying experience (Where bikes are sold, by whom, purchase considerations)</li></ul><p>Sources for this information might include:</p><ul><li>Your own experience/knowledge</li><li>Your friends/peers experience/knowledge</li><li>Online stores</li><li>Local bike shops</li><li>Online groups (clubs, forums, social media)</li><li>Other online buyer's guides</li></ul><p>Finally, just like you did in your general UI research, 'buy' a bike at a few different online retailers. For now, focus on what YOU would want if you were actually buying a bike for yourself today. What would you use it for? What features do you care about? How will you know if it fits you? How will you select a brand and price point?",
+            "instructions" : "<p>Educate yourself about bikes and bike users, considering the factors and sources noted above. Challenge yourself to push past what you already know – find some suprises. Create an HTML document that lists the sources you used and briefly describes how you used them. Then summarize and analyze. What big questions will a buyer will be faced with? What priorities might they have? What did you run into that you <em>didn't</em> understand, and now you do?</p>"
           },
           {
             "slug" : "personas",
