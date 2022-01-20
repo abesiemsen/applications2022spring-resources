@@ -53,13 +53,6 @@
         "basePath": "https://UNKNOWN.github.io/applications2022spring/"
       },
       {
-        "slug": "ChristineBi",
-        "lastName": "Bi",
-        "firstName": "Christine",
-        "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
-      },
-      {
         "slug": "CydneyBibbs",
         "lastName": "Bibbs",
         "firstName": "Cyndey",
@@ -165,25 +158,11 @@
         "basePath": "https://srpark0924.github.io/applications2022spring/"
       },
       {
-        "slug": "JoyceRoh",
-        "lastName": "Roh",
-        "firstName": "Joyce",
-        "status": "enrolled",
-        "basePath": "https://joyceroh.github.io/applications2022spring/"
-      },
-      {
         "slug": "EmmaSchumacher",
         "lastName": "Schumacher",
         "firstName": "Emma",
         "status": "enrolled",
         "basePath": "https://emtschu.github.io/applications2022spring/"
-      },
-      {
-        "slug": "AlexStepansky",
-        "lastName": "Stepansky",
-        "firstName": "Alex",
-        "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
       },
       {
         "slug": "JeffSu",
