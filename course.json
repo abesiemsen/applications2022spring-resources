@@ -39,11 +39,11 @@
     "syllabus": "syllabus.snippet",
     "students": [
       {
-        "slug": "MegBarry",
+        "slug": "MeghanBarry",
         "lastName": "Barry",
-        "firstName": "Meg",
+        "firstName": "Meghan",
         "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://meghanbarry.github.io/applications2022spring/"
       },
       {
         "slug": "AnaisBecker",
@@ -64,7 +64,7 @@
         "lastName": "Bibbs",
         "firstName": "Cyndey",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://cydneybibbs.github.io/applications2022spring/"
       },
       {
         "slug": "MollyBusis",
@@ -78,14 +78,14 @@
         "lastName": "Chen",
         "firstName": "Kathleen",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://kathleen21520.github.io/applications2022spring/"
       },
       {
         "slug": "BrianCui",
         "lastName": "Cui",
         "firstName": "Brian",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://bcuivision.github.io/applications2022spring/"
       },
       {
         "slug": "AllisonFong",
@@ -99,14 +99,14 @@
         "lastName": "Fosen",
         "firstName": "Cecilia",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://cfosen.github.io/applications2022spring/"
       },
       {
         "slug": "HannaFu",
         "lastName": "Fu",
         "firstName": "Hanna",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://f-hanna.github.io/applications2022spring/"
       },
       {
         "slug": "KobeHayes",
@@ -120,14 +120,14 @@
         "lastName": "Lee",
         "firstName": "Brian",
         "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://theldor.github.io/applications2022spring/"
       },
       {
         "slug": "TaehoLee",
         "lastName": "Lee",
         "firstName": "Taeho",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://taehoxogh.github.io/applications2022spring/"
       },
       {
         "slug": "YinaLi",
@@ -141,7 +141,7 @@
         "lastName": "Liu",
         "firstName": "Heyue Annie",
         "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://annieliu2022.github.io/applications2022spring/"
       },
       {
         "slug": "ArielleMeisel",
@@ -155,28 +155,28 @@
         "lastName": "Monk",
         "firstName": "Shiyeon",
         "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://shiyeonku.github.io/applications2022spring/"
       },
       {
         "slug": "SeriPark",
         "lastName": "Park",
         "firstName": "Seri",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://srpark0924.github.io/applications2022spring/"
       },
       {
         "slug": "JoyceRoh",
         "lastName": "Roh",
         "firstName": "Joyce",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://joyceroh.github.io/applications2022spring/"
       },
       {
         "slug": "EmmaSchumacher",
         "lastName": "Schumacher",
         "firstName": "Emma",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://emtschu.github.io/applications2022spring/"
       },
       {
         "slug": "AlexStepansky",
@@ -190,14 +190,14 @@
         "lastName": "Su",
         "firstName": "Jeff",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://suyjeff.github.io/applications2022spring/"
       },
       {
         "slug": "FloraWu",
         "lastName": "Wu",
         "firstName": "Flora",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://wanrongwu.github.io/applications2022spring/"
       },
       {
         "slug": "VictoriaXu",
@@ -211,7 +211,7 @@
         "lastName": "Yuan",
         "firstName": "Chelsea",
         "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
+        "basePath": "https://chelsealyuan.github.io/applications2022spring/"
       }
     ],
     "dropped": [
