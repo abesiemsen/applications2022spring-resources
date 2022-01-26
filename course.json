@@ -249,7 +249,7 @@
           {
             "slug" : "research-product-knowledge",
             "name" : "Product Knowledge",
-            "assigned" : "2018-01-19",
+            "assigned" : "2022-01-19",
             "due" : "2022-01-24T17:00:00.000",
             "hidden": false,
             "file" : "index.html",
@@ -259,50 +259,32 @@
           {
             "slug" : "personas",
             "name" : "Personas",
-            "assigned" : "2018-01-22",
-            "due" : "2018-01-22 (In Class)",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Define and document a persona with your team.</p>",
-            "instructions" : "<p>With your team, create a document describing your assigned persona. Be sure to include the elements of a persona as we defined them in class. Post the persona as an HTML document.</p>",
+            "assigned" : "2022-01-26",
+            "due" : "2022-01-26 (In Class)",
+            "hidden": false,
+            "description" : "<p>Define and document a persona with your group.</p>",
+            "instructions" : "<p>With your group, copy the persona template we've created together, and flesh out your assigned persona. Be sure to include the elements of a persona as we defined them in class. This is not just about collecting words together – it is about imagining a person, empathizing with them, and making them feel human. It requires imagination and writing skill to fill in the gaps so the rest of us will understand who this person is! Create/edit the persona in the Google Doc referenced below.</p>",
             "references" : [
               {
-                "name" : "Personas - Why and How You Should Use Them",
-                "link" : "https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them",
-                "description" : "A reference providing some insight into what personas are, how to create and use them, and how they fit into the design thinking process."
+                "name" : "QuickCycle Persona Collaboration",
+                "link" : "https://docs.google.com/document/d/1yrgExhI2z5P_RhQVAvqA7SeQ2gRJW8g502ho4ZuXuLA/edit?usp=sharing",
+                "description" : "We'll collaborate within this document to create our personas and user stories for the project."
               }
             ]
           },
           {
             "slug" : "user-stories-existing-site",
             "name" : "User Stories - Existing Site",
-            "assigned" : "2018-01-24",
-            "due" : "2018-01-24 (in class)",
-            "hidden": true,
-            "file" : "index.html",
+            "assigned" : "2022-01-26",
+            "due" : "2022-01-31",
+            "hidden": false,
             "description" : "<p>Embody the person your team created, and write user stories describing their experience on a real website.</p>",
-            "instructions" : "<p>Select a real website for purchasing a bicycle, then 'be' the persona your team defined as you go through the purchasing process once again. Break the process down into a series of small, discrete objectives, following the <a href=\"https://www.google.com/search?q=user+story\" target=\"_blank\">User Story</a> pattern: \"As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason &gt;.\" Write the these objectives down in an HTML document, provide context and style sufficient to let somebody else understand what you've documented, and post it.</p>",
+            "instructions" : "<p>Select a real website for purchasing a bicycle, then 'be' the persona your team defined as you go through the purchasing process once again. Break the process down into a series of small, discrete objectives, following the <a href=\"https://www.google.com/search?q=user+story\" target=\"_blank\">User Story</a> pattern: <strong>\"As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;.\"</strong> Add your user stories to our persona collaboration document.</p>",
             "references" : [
               {
-                "name" : "What is a user story? Let me Google that for you!",
-                "link" : "https://www.google.com/search?q=user+story",
-                "description" : "I don't have a reference I consider definitive, so I leave it to you to interpret/assimilate what you find."
-              }
-            ]
-          },
-          {
-            "slug" : "user-stories-aggregated",
-            "name" : "User Stories - Aggregated",
-            "assigned" : "2018-01-24",
-            "due" : "2018-01-29",
-            "hidden": true,
-            "description" : "<p>Share your user stories with your peers.</p>",
-            "instructions" : "<p>Transcribe the user stories you wrote into the Google Sheet referenced below. Everybody else will do the same, and we'll end up with a combined set of stories we can all reference.</p><p>Once your user stories are transcribed, consider how you might want to organize this document further. But don't actually do it yet, at least to the master document!</p>",
-            "references" : [
-              {
-                "name" : "Google Sheet: Bike Finder User Stories",
-                "link" : "https://docs.google.com/spreadsheets/d/12pg9VS56nibCNKj8DL8Fkmwx5ovuNgVF06GEb63KZ5U/edit?usp=sharing",
-                "description" : "This is the document where we'll collect all of our user stories."
+                "name" : "QuickCycle Persona Collaboration",
+                "link" : "https://docs.google.com/document/d/1yrgExhI2z5P_RhQVAvqA7SeQ2gRJW8g502ho4ZuXuLA/edit?usp=sharing",
+                "description" : "We'll collaborate within this document to create our personas and user stories for the project."
               }
             ]
           },
