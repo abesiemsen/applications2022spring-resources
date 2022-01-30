@@ -53,20 +53,6 @@
         "basePath": "https://anaisbecker.github.io/applications2022spring/"
       },
       {
-        "slug": "CydneyBibbs",
-        "lastName": "Bibbs",
-        "firstName": "Cyndey",
-        "status": "enrolled",
-        "basePath": "https://cydneybibbs.github.io/applications2022spring/"
-      },
-      {
-        "slug": "MollyBusis",
-        "lastName": "Busis",
-        "firstName": "Molly",
-        "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
-      },
-      {
         "slug": "KathleenChen",
         "lastName": "Chen",
         "firstName": "Kathleen",
@@ -81,25 +67,11 @@
         "basePath": "https://bcuivision.github.io/applications2022spring/"
       },
       {
-        "slug": "AllisonFong",
-        "lastName": "Fong",
-        "firstName": "Allison",
-        "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
-      },
-      {
         "slug": "CeciliaFosen",
         "lastName": "Fosen",
         "firstName": "Cecilia",
         "status": "enrolled",
         "basePath": "https://cfosen.github.io/applications2022spring/"
-      },
-      {
-        "slug": "HannaFu",
-        "lastName": "Fu",
-        "firstName": "Hanna",
-        "status": "enrolled",
-        "basePath": "https://f-hanna.github.io/applications2022spring/"
       },
       {
         "slug": "KobeHayes",
@@ -130,20 +102,6 @@
         "basePath": "https://yina-li.github.io/applications2022spring/"
       },
       {
-        "slug": "HeyueAnnieLiu",
-        "lastName": "Liu",
-        "firstName": "Heyue Annie",
-        "status": "waitlist",
-        "basePath": "https://annieliu2022.github.io/applications2022spring/"
-      },
-      {
-        "slug": "ArielleMeisel",
-        "lastName": "Meisel",
-        "firstName": "Arielle",
-        "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
-      },
-      {
         "slug": "ShiyeonMonk",
         "lastName": "Monk",
         "firstName": "Shiyeon",
@@ -158,13 +116,6 @@
         "basePath": "https://srpark0924.github.io/applications2022spring/"
       },
       {
-        "slug": "EmmaSchumacher",
-        "lastName": "Schumacher",
-        "firstName": "Emma",
-        "status": "enrolled",
-        "basePath": "https://emtschu.github.io/applications2022spring/"
-      },
-      {
         "slug": "JeffSu",
         "lastName": "Su",
         "firstName": "Jeff",
@@ -177,13 +128,6 @@
         "firstName": "Flora",
         "status": "enrolled",
         "basePath": "https://wanrongwu.github.io/applications2022spring/"
-      },
-      {
-        "slug": "VictoriaXu",
-        "lastName": "Xu",
-        "firstName": "Victoria",
-        "status": "enrolled",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
       },
       {
         "slug": "ChelseaYuan",
@@ -301,13 +245,13 @@
           {
             "slug" : "lofi-wireframes",
             "name" : "Low-Fidelity Wireframes",
-            "assigned" : "2018-01-31",
-            "due" : "2018-02-07",
+            "assigned" : "2022-01-31",
+            "due" : "2018-02-02",
             "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create low-fidelity wireframes that visualize your proposed layout.</p>",
-            "instructions" : "<p>Create wireframes with whatever tool you choose, but stay <strong><em>low-fidelity</em></strong>. Don't waste time making it pretty: make it CLEAR. At the same time, do not over-simplify in terms of information. Provide enough information so we can understand what's happening. If a product in the list includes a title or a price, show those things.</p><p>Don't be satisfied with your first run at it... it's probably incomplete. Expect to iterate. Practice 'using' your wireframes with our personas. Can you complete the user-stories for each persona? Use <code>deliverable.json</code> to upload multiple versions as needed.</p><p><strong>UPDATED REQUIREMENT (2018-02-05): Iterate and update per the <a href=\"https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing\" target=\"_blank\">in-class guidance</a>.</strong></p>",
-            "references" : [
+            "instructions" : "<p>Create wireframes with whatever tool you choose, but stay <strong><em>low-fidelity</em></strong>. Don't waste time making it pretty: make it CLEAR. At the same time, do not over-simplify in terms of information. Provide enough information so we can understand what's happening. If a product in the list includes a title or a price, show those things.</p><p>Don't be satisfied with your first run at it... it's probably incomplete. Expect to iterate. Practice 'using' your wireframes with our personas. Can you complete the user-stories for each persona? Use <code>deliverable.json</code> to upload multiple versions as needed.</p><!--<p><strong>UPDATED REQUIREMENT (2018-02-05): Iterate and update per the <a href=\"https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing\" target=\"_blank\">in-class guidance</a>.</strong></p>-->",
+            "old-references" : [
                {
                 "name" : "Google Slides: Bike Finder Lo-Fi Wireframe Feedback",
                 "link" : "https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing",
