@@ -74,13 +74,6 @@
         "basePath": "https://cfosen.github.io/applications2022spring/"
       },
       {
-        "slug": "KobeHayes",
-        "lastName": "Hayes",
-        "firstName": "Kobe",
-        "status": "waitlist",
-        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
-      },
-      {
         "slug": "BrianLee",
         "lastName": "Lee",
         "firstName": "Brian",
@@ -93,6 +86,13 @@
         "firstName": "Taeho",
         "status": "enrolled",
         "basePath": "https://taehoxogh.github.io/applications2022spring/"
+      },
+      {
+        "slug": "ThuyTran",
+        "lastName": "Tran",
+        "firstName": "Thuy",
+        "status": "waitlist",
+        "basePath": "https://UNKNOWN.github.io/applications2022spring/"
       },
       {
         "slug": "YinaLi",
