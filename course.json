@@ -239,7 +239,7 @@
             "due" : "2022-02-02",
             "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Create a document that organizes your high-level ideas about what solutions you propose to use, and how they'll fit together.</p>",
+            "description" : "<p>Using ALL of the personas and user-stories we've collective written as reference, create a document that organizes <em>your</em> ideas about what solutions you propose to use, and how they'll fit together into a complete experience.</p>",
             "instructions" : "<ol><li>Read through the user-stories gathered in our previous deliverable. If you choose, make your own copy of the personas and user-stories, and consolidate/organize further than we have in class.</li><li>Identify possible UI solutions to address the stories. Not necessarily 1-for-1, just let the stories suggest ideas for components. A menu. A big photo. A search bar. An expanding drawer. Sometimes a single component such as a checkbox is enough. Sometimes you may end up with a set of components that work together, such as a search-field, search button, and results list. Keep an eye out for solutions that address more than one story/need, or that can be enhanced to address additional needs. For instance, a basic search bar might be enhanced with an 'auto-suggest' feature.</li><li>Organize your solutions into pages, or views. What views need to exist? What responsibilities does each view have?</li><li>Format your decisions in a document (or set of documents) that conveys as much as possible about your decisions, with as little effort as possible. The idea is to communicate a plan that's both easy to follow, and easy to change.</li></ol>"
           },
           {
