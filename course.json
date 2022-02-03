@@ -53,6 +53,13 @@
         "basePath": "https://anaisbecker.github.io/applications2022spring/"
       },
       {
+        "slug": "ChristineBi",
+        "lastName": "Bi",
+        "firstName": "Christine",
+        "status": "enrolled",
+        "basePath": "https://christine202x.github.io/applications2022spring/"
+      },
+      {
         "slug": "KathleenChen",
         "lastName": "Chen",
         "firstName": "Kathleen",
@@ -107,6 +114,13 @@
         "firstName": "Seri",
         "status": "enrolled",
         "basePath": "https://srpark0924.github.io/applications2022spring/"
+      },
+      {
+        "slug": "EugeneSong",
+        "lastName": "Song",
+        "firstName": "Eugene",
+        "status": "enrolled",
+        "basePath": "https://eugeneesong.github.io/applications2022spring/"
       },
       {
         "slug": "JeffSu",
@@ -245,12 +259,12 @@
           {
             "slug" : "lofi-wireframes",
             "name" : "Low-Fidelity Wireframes",
-            "assigned" : "2022-01-31",
-            "due" : "2018-02-02",
-            "hidden": true,
+            "assigned" : "2022-02-02",
+            "due" : "2022-02-07",
+            "hidden": false,
             "file" : "index.html",
             "description" : "<p>Create low-fidelity wireframes that visualize your proposed layout.</p>",
-            "instructions" : "<p>Create wireframes with whatever tool you choose, but stay <strong><em>low-fidelity</em></strong>. Don't waste time making it pretty: make it CLEAR. At the same time, do not over-simplify in terms of information. Provide enough information so we can understand what's happening. If a product in the list includes a title or a price, show those things.</p><p>Don't be satisfied with your first run at it... it's probably incomplete. Expect to iterate. Practice 'using' your wireframes with our personas. Can you complete the user-stories for each persona? Use <code>deliverable.json</code> to upload multiple versions as needed.</p><!--<p><strong>UPDATED REQUIREMENT (2018-02-05): Iterate and update per the <a href=\"https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing\" target=\"_blank\">in-class guidance</a>.</strong></p>-->",
+            "instructions" : "<p>Create wireframes with whatever tool you choose, but stay <strong><em>low-fidelity</em></strong>. Don't waste time making it pretty: make it CLEAR. At the same time, do not over-simplify in terms of information. Provide enough information so we can understand what's happening. If a product in the list includes a title or a price, show those things.</p><p>Don't be satisfied with your first run at it... it's probably incomplete. Expect to iterate. Practice 'using' your wireframes with our personas. Can you complete the user-stories for each persona? <!--Use <code>deliverable.json</code> to upload multiple versions as needed.</p><p><strong>UPDATED REQUIREMENT (2018-02-05): Iterate and update per the <a href=\"https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing\" target=\"_blank\">in-class guidance</a>.</strong></p>-->",
             "old-references" : [
                {
                 "name" : "Google Slides: Bike Finder Lo-Fi Wireframe Feedback",
