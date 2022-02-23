@@ -349,18 +349,13 @@
           {
             "slug" : "clickable-prototypes",
             "name" : "Clickable Prototypes",
-            "assigned" : "2018-02-12",
-            "due" : "2018-02-19",
-            "hidden": true,
+            "assigned" : "2022-02-23",
+            "due" : "2022-02-28",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Create presentation-ready prototypes with enough functionality to demonstrate a 'typical' path through the bike-finding process.</p>",
-            "instructions" : "<p>When your mockups are ready, add a layer of interactivity by positioning 'hotspots' that we can use to walk through them. Fundamentally you're delivering a series of rendered images, one-per-page, but by adding a hot-spot layer on top, we can simulate user actions leading to expected results, such as clicking a search bar and getting to the search results view, or clicking a thumbnail to get to a bike detail view.</p><p>You may also consider adding visual layers the user can show/hide with a click or over, such as a menu flyout, or expanded filter control. These could be smaller absolutely-positioned images which are simply set to <code>display:none;</code> until the user hovers a hot-spot.</p><p>Make sure your prototype is self-sufficient. In other words, make sure the rest of can click through your prototype successfully without your input or explanation.</p><p><strong>Upload with enough time to spare that we don't run into awkward caching problems while trying to present to the class and our guest reviewers!</strong></p>",
+            "description" : "<p>Create presentation-ready prototypes with enough interactive functionality to demonstrate a 'typical' path through the bike-finding process.</p>",
+            "instructions" : "<p>When your high-fidelity mockups are ready, add interactivity so we can walk through them in a plausible way. Don't worry about simulating every possible user interaction – focus on those interactions that guide us through the 'typical' experience and that point out key features, such as clicking a search bar and getting to the search results view, or clicking a thumbnail to get to a bike detail view.</p><p>You may also consider adding interaction to show key transient UI interactions such as a menu flyout, or expanded filter control.</p><p>Make sure your prototype is self-sufficient. In other words, make sure the rest of us can click through your prototype successfully without your input or explanation.</p>",
             "references" : [
-               {
-                "name" : "Hotspot demo source",
-                "link" : "https://abesiemsen.github.io/hotspot-example/",
-                "description" : "Abe's down'n'dirty demo for creating 'invisible' hotspots."
-              }
             ]
           }
         ]
