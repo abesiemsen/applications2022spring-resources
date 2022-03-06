@@ -1,7 +1,7 @@
 {
   "course": {
     "department": "Communication Design",
-    "slug": "F10-ART-326H",
+    "slug": "F10-ART-332A",
     "section": "01",
     "context": "Interaction Design",
     "semester": "Spring 2022",
@@ -453,20 +453,20 @@
       {
         "slug" : "configurator",
         "name" : "Configurator",
-        "start" : "2018-03-28",
-        "end" : "2018-04-25",
-        "hidden": true,
-        "description" : "<p>If you've ordered Pizza online, you know what a 'configurator' is &mdash; the interface by which you step through the various choices/options available to 'customize' something you want to describe. Thin-crust or deep dish, light cheese or heavy, Which meats? Which veggies?</p><p>In this project, you will design a configurator interface &mdash; but the object being configured is up to you. Could be pizza if you like, but could also be something like an airline ticket. The choice is yours... within some parameters:</p><ul><li>The item being configured must have a finite set of pre-defined options that can be clearly articulated and easily understood.</li><li>Completion should be possible in no more than 3&ndash;5 steps.</li><li>The item must be commonly understood, requiring only a minimum of 'education' in order to configure.</li><li>Abe must approve it. :)</li></ul><p>This project does not have a defined deliverable, other than to say the finished product of your work should easily allow anybody to simulate the configuration process. You may choose to actually build and program the configurator in html/css/js, you may choose to build a clickable prototype, you may choose to only provide a series of mockups. You should, however, play to your strengths. Decide on a topic and a final deliverable that showcases your abilities, and maximizes the value of the time you spend.</p><p>What will I be looking for? Clarity of purpose. Ease of use. Evidence of a strong work ethic. A self-sufficient end-product. Reasoned UX choices. Transparently usable and accessible UI. Ultimately, that it shows well!</p>",
+        "start" : "2022-03-07",
+        "end" : "2022-04-27",
+        "hidden": false,
+        "description" : "<p>If you've ordered Pizza online, you know what a 'configurator' is &mdash; the interface by which you step through the various choices/options available to 'customize' something you want to describe. Thin-crust or deep dish, light cheese or heavy, Which meats? Which veggies?</p><p>In this project, you will design a configurator interface &mdash; but the object being configured is up to you. Could be pizza if you like, but could also be something like an airline ticket. The choice is yours... within some parameters:</p><ul><li>The item being configured must have a finite set of pre-defined options that can be clearly articulated and easily understood.</li><li>Completion of the user-experience should be possible in no more than 3&ndash;5 steps.</li><li>The item must be commonly understood, requiring only a minimum of 'education' in order to configure.</li><li>Abe must approve it. :)</li></ul><p>This project does not have a defined final deliverable, other than to say the finished product of your work should easily allow anybody to simulate the configuration process. You may choose to actually build and program the configurator in html/css/js, you may choose to build a clickable prototype, you may choose to only provide a series of mockups. You should, however, play to your strengths. Decide on a topic and a final deliverable that showcases your abilities, and maximizes the value of the time you spend.</p><p>What will I be looking for? Research. Clarity of problem/purpose. An understanding of your audience. Ease of use. Evidence of a strong work ethic. A self-sufficient end-product. Reasoned UX choices. Transparently usable and accessible UI. Ultimately, that it shows well!</p>",
         "deliverables" : [
           {
             "slug" : "proposal",
             "name" : "Proposal",
-            "assigned" : "2018-03-28",
-            "due" : "2018-03-28 (in class)",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Write a proposal articulating the object you intend to configure, the final deliverable you expect to create, how that deliverable plays to your strengths, and what you expect to be able to show as progress in each class session between today and the final day of class.</p>",
-            "instructions" : "<p>Create and upload your proposal as HTML. We will refer to it as we check progress through this project. I don't expect you to meet every goal you set perfectly, but I will expect you to meet me each week with either a met objective, or a revised plan. Use deliverable.json for plan revisions.</p>"
+            "assigned" : "2022-03-07",
+            "due" : "2022-03-09",
+            "hidden": false,
+            "file" : "proposal.pdf",
+            "description" : "<p>Write a proposal articulating the object you intend to configure, how you intend to research, understand, and articulate the users' needs, the kind of final deliverable you expect to create, how that deliverable plays to your strengths, and what you expect to be able to show as progress in each class session between today and the final day of class.</p><p>Think of this proposal itself as a reference document you are creating. It describes the need, the scope of your intentions, and your plan for implementation. In reality it will be a reference for you and me, but treat it like a self-sufficient document: if you were to hand it to anybody without explanation or context, they should be able to understand what you plan to do, why, and how.</p><p>What will YOU need in this document in order to make it be a useful reference as we progress through the project?",
+            "instructions" : "<p><strong>Upload your proposal as a PDF.</strong> We will refer to it as we check progress through this project. I don't expect you to meet every goal you set perfectly, but I will expect you to meet me each week with either a met objective, or a revised plan.</p>"
           },
           {
             "slug" : "options",
