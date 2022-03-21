@@ -485,17 +485,17 @@
             "due" : "2022-03-21",
             "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
+            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
           },
           {
             "slug" : "step-2",
             "name" : "Step 2",
-            "assigned" : "2022-03-09",
-            "due" : "2022-03-21",
-            "hidden": true,
+            "assigned" : "2022-03-21",
+            "due" : "2022-03-23",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
+            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
           },
           {
@@ -505,7 +505,7 @@
             "due" : "2018-04-25",
             "hidden": true,
             "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
+            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
           },
           {
@@ -515,7 +515,7 @@
             "due" : "2018-04-25",
             "hidden": true,
             "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
+            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
           },
           {
@@ -525,7 +525,7 @@
             "due" : "2018-04-25",
             "hidden": true,
             "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
+            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>"
           },
           {
