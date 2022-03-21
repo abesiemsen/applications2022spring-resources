@@ -479,10 +479,20 @@
             "instructions" : "<p>The document may be visual or textual, but should clearly communicate what the configuration steps are, and what options are available at each step. Be specific. It is not sufficient to use placeholder values. Upload the document as HTML. If you build a visual flowchart, embed it as an image.</p>"
           },
           {
+            "slug" : "step-1",
+            "name" : "Step 1",
+            "assigned" : "2022-03-09",
+            "due" : "2022-03-21",
+            "hidden": false,
+            "file" : "index.html",
+            "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
+            "instructions" : "<p>Upload progress per your proposal.</p>"
+          },
+          {
             "slug" : "step-2",
             "name" : "Step 2",
-            "assigned" : "2018-04-01",
-            "due" : "2018-04-25",
+            "assigned" : "2022-03-09",
+            "due" : "2022-03-21",
             "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal for timeline, this deliverable is for you to use as needed.</p>",
