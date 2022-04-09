@@ -574,15 +574,40 @@
             ]
           },
           {
-            "slug" : "step-5",
-            "name" : "Step 5",
-            "assigned" : "2018-04-01",
-            "due" : "2018-04-25",
-            "hidden": true,
+            "slug" : "step-7",
+            "name" : "Step 7",
+            "assigned" : "2022-04-06",
+            "due" : "2022-04-11",
+            "hidden": false,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>"
+            "instructions" : "<p>Upload progress per your proposal.</p>",
+            "references": [
+              {
+                "name" : "Weekly meeting schedule",
+                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
+                "description" : "Plan to meet with Abe based on this schedule."
+              }
+            ]
           },
+          {
+            "slug" : "step-8",
+            "name" : "Step 8",
+            "assigned" : "2022-04-11",
+            "due" : "2022-04-13",
+            "hidden": false,
+            "file" : "index.html",
+            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
+            "instructions" : "<p>Upload progress per your proposal.</p>",
+            "references": [
+              {
+                "name" : "Weekly meeting schedule",
+                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
+                "description" : "Plan to meet with Abe based on this schedule."
+              }
+            ]
+          },
+
           {
             "slug" : "final",
             "name" : "Final",
