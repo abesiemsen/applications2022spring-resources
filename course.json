@@ -60,13 +60,6 @@
         "basePath": "https://christine202x.github.io/applications2022spring/"
       },
       {
-        "slug": "KathleenChen",
-        "lastName": "Chen",
-        "firstName": "Kathleen",
-        "status": "enrolled",
-        "basePath": "https://kathleen21520.github.io/applications2022spring/"
-      },
-      {
         "slug": "BrianCui",
         "lastName": "Cui",
         "firstName": "Brian",
@@ -607,7 +600,40 @@
               }
             ]
           },
-
+          {
+            "slug" : "step-9",
+            "name" : "Step 9",
+            "assigned" : "2022-04-13",
+            "due" : "2022-04-18",
+            "hidden": false,
+            "file" : "index.html",
+            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
+            "instructions" : "<p>Upload progress per your proposal.</p>",
+            "references": [
+              {
+                "name" : "Weekly meeting schedule",
+                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
+                "description" : "Plan to meet with Abe based on this schedule."
+              }
+            ]
+          },
+          {
+            "slug" : "step-10",
+            "name" : "Step 10",
+            "assigned" : "2022-04-18",
+            "due" : "2022-04-20",
+            "hidden": false,
+            "file" : "index.html",
+            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
+            "instructions" : "<p>Upload progress per your proposal.</p>",
+            "references": [
+              {
+                "name" : "Weekly meeting schedule",
+                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
+                "description" : "Plan to meet with Abe based on this schedule."
+              }
+            ]
+          },
           {
             "slug" : "final",
             "name" : "Final",
