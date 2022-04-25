@@ -639,7 +639,7 @@
             "name" : "Final",
             "assigned" : "2022-04-25",
             "due" : "2022-04-27",
-            "hidden": true,
+            "hidden": false,
             "file" : "index.html",
             "description" : "<p>We have reached the end of the line!</p>",
             "instructions" : "<p>Upload your final work (or a link to it). Then, fill ou tthe course evaluation form!</p>",
