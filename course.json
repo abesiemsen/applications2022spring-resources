@@ -642,7 +642,14 @@
             "hidden": true,
             "file" : "index.html",
             "description" : "<p>We have reached the end of the line!</p>",
-            "instructions" : "<p>Upload your final work (or a link to it).</p>"
+            "instructions" : "<p>Upload your final work (or a link to it). Then, fill ou tthe course evaluation form!</p>",
+            "references": [
+              {
+                "name" : "Course Evaluation",
+                "link" : "https://evals.wustl.edu/",
+                "description" : "Your feedback is extremely helpful to me, and I greatly appreciate it! Answers are anonymous, and I don't see any feedback until after I've submitted your grades."
+              }
+            ]
           }
         ]
       }
