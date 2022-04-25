@@ -637,12 +637,12 @@
           {
             "slug" : "final",
             "name" : "Final",
-            "assigned" : "2018-04-01",
-            "due" : "2018-04-25",
+            "assigned" : "2022-04-25",
+            "due" : "2022-04-27",
             "hidden": true,
             "file" : "index.html",
-            "description" : "<p>Is it done yet?</p>",
-            "instructions" : "<p>Upload your final work.</p>"
+            "description" : "<p>We have reached the end of the line!</p>",
+            "instructions" : "<p>Upload your final work (or a link to it).</p>"
           }
         ]
       }
