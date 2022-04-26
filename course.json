@@ -642,7 +642,7 @@
             "hidden": false,
             "file" : "index.html",
             "description" : "<p>We have reached the end of the line!</p>",
-            "instructions" : "<p>Upload your final work (or a link to it). Then, fill ou tthe course evaluation form!</p>",
+            "instructions" : "<p>Upload your final work (or a link to it). Then, fill out the course evaluation form!</p>",
             "references": [
               {
                 "name" : "Course Evaluation",
